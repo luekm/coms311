@@ -1,0 +1,5 @@
+The txt files 1-4 and hard, are all board states for the game to be run on
+
+The Runner class uses GameBoard to solve the various board states. 
+
+The game is based very similarly to the board game 'Rush Hour' using hash maps to find all possible solutions and also the most optimal. 
